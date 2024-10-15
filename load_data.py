@@ -60,7 +60,7 @@ def save_data(data, output_file):
 #main_idr = r"C:\Users\itama\Downloads\2024"
 # df = collect_data(main_idr)
 # save_data(df, "2024.csv")
-file_n = r"C:\Users\itama\Downloads\2021\1_ADR21Q4.xml"
-df = load_xml_to_df(file_n)
-save_data(df, "2021_Q4.csv")
+# file_n = r"C:\Users\itama\Downloads\2021\1_ADR21Q4.xml"
+# df = load_xml_to_df(file_n)
+# save_data(df, "2021_Q4.csv")
 
