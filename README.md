@@ -14,7 +14,8 @@ Usage of the data to construct a bipartite graph where drugs and reactions are r
 
 # Model and Graph Dissection
 Graph Construction: The core of the analysis revolves around a bipartite graph constructed using the NetworkX library. The function build_bi_partite_graph is used to create this graph from the dataset.
-Feature Engineering: Several graph-based features are computed for each drug-reaction pair:
+## Feature Engineering: 
+Several graph-based features are computed for each drug-reaction pair:
 •	Jaccard coefficient
 •	Adamic-Adar index
 •	Preferential attachment
